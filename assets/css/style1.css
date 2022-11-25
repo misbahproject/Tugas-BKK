@@ -1,0 +1,12 @@
+body {
+    overflow-x: hidden;
+}
+.jumbotron img {
+    max-width: 100%;
+}
+label {
+    margin-top: 10px;
+}
+input {
+    margin-top: 15px;
+}
